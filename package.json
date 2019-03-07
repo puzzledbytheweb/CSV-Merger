@@ -1,0 +1,15 @@
+{
+  "name": "csvmerger",
+  "version": "1.0.0",
+  "description": "Should merge all csv files it get into a big csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "csv",
+    "merge"
+  ],
+  "author": "Pedro Filipe (puzzledbytheweb)",
+  "license": "MIT"
+}
